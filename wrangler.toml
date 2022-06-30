@@ -1,4 +1,4 @@
 workers_dev = true
-name = "teleworker"
+name = "javcftoken"
 type = "webpack"
-account_id = ""
+account_id = "be568cdc073c9312b94623ba84c7bfd1"
